@@ -14,6 +14,7 @@
 		9849D61928CF611600DC9B24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9849D61728CF611600DC9B24 /* LaunchScreen.storyboard */; };
 		9849D62428CF611600DC9B24 /* FrodoyuYakalaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9849D62328CF611600DC9B24 /* FrodoyuYakalaTests.swift */; };
 		9849D62F28CF611600DC9B24 /* FrodoyuYakalaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9849D62E28CF611600DC9B24 /* FrodoyuYakalaUITests.swift */; };
+		9849D64328CF7B2100DC9B24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9849D64228CF7B2100DC9B24 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9849D62A28CF611600DC9B24 /* FrodoyuYakalaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FrodoyuYakalaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9849D62E28CF611600DC9B24 /* FrodoyuYakalaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrodoyuYakalaUITests.swift; sourceTree = "<group>"; };
 		9849D63028CF611600DC9B24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9849D64228CF7B2100DC9B24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				9849D60C28CF611400DC9B24 /* AppDelegate.swift */,
 				9849D60E28CF611400DC9B24 /* SceneDelegate.swift */,
 				9849D61028CF611400DC9B24 /* ViewController.swift */,
+				9849D64228CF7B2100DC9B24 /* Assets.xcassets */,
 				9849D61228CF611400DC9B24 /* Main.storyboard */,
 				9849D61728CF611600DC9B24 /* LaunchScreen.storyboard */,
 				9849D61A28CF611600DC9B24 /* Info.plist */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9849D61928CF611600DC9B24 /* LaunchScreen.storyboard in Resources */,
+				9849D64328CF7B2100DC9B24 /* Assets.xcassets in Resources */,
 				9849D61428CF611400DC9B24 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
